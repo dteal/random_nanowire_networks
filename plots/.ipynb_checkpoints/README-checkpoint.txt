@@ -1,0 +1,1 @@
+This folder contains a number of figures demonstrating various nanowire network properties created by the 'nanowire_figures.ipynb' scripts in '../simulation'.
