@@ -1,4 +1,4 @@
-# Neuromorphic Memristors
+# Modeling Complex Random Memristor Networks
 
 This is a set of IPython notebooks and data investigating the properties of nanowire-based neuromorphic networks with the Nano Functionality Integration Group, MANA, NIMS, Tsukuba, Japan.
 
