@@ -16,9 +16,11 @@ Alternative electronic architectures promise to transcend limitations of standar
 
 'simulations/' contains Python Jupyter notebooks documenting most of the results.
 
-'documents/' contains a presentation --- an alternative overview.
+'documents/' contains a summary paper, poster, and presentation.
 
 'experiment/' contains experimental data, while 'pictures/' and 'plots/' contain their namesakes, respectively.
+
+'pictures/' and 'plots/' contain various media.
 
 ## Acknowledgements
 
